@@ -31,7 +31,7 @@ const time = [
         // video: "",
     },
     {
-        url: "https://ca.slack-edge.com/TM13XHBBQ-U03DNHZLCH1-1673b49a990f-512",
+        url: "https://ca.slack-edge.com/TM13XHBBQ-U02FSQAUV38-7a1ee5df9010-512",
         nome: "Cadu",
         funcao: "Pessoa Instrutora",
         linkedin: "https://br.linkedin.com/in/carlos-eduardo-2a2804105",
