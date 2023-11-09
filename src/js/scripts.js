@@ -263,12 +263,12 @@ const mural = [
         linksTitle: ["Informe pra gente aqui neste link"],
         links: ["https://be-trybe.typeform.com/gituser"]
     },
-    // {
-    //     title: "📒 Agenda da Semana",
-    //     text: "Confira aqui todo detalhamento da semana",
-    //     linksTitle: ["Link para agenda da semana"],
-    //     links: ["https://docsend.com/view/a48rde2ue8dug8m7"]
-    // },
+    {
+        title: "📒 Agenda da Semana",
+        text: "Confira aqui todo detalhamento da semana",
+        linksTitle: ["Link para agenda da semana"],
+        links: ["https://docsend.com/view/q9rmyat2nqcpwq8f"]
+    },
     // {
     //     title: "📅 Agende um Papo conosco",
     //     text: `Você pode agendar um papo com pessoas do time!`,
